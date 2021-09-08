@@ -31,3 +31,4 @@ def draw():
         segundero = 0
     else:
         segundero= map(second(), 0, 59, 0, height)
+        
